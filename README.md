@@ -58,9 +58,9 @@ For i = 0 To 11
 This section of the code made the code run time significantly faster comparing it to the first code. The first code ran at around .73 seconds and after the refactor it ran at around .101 seconds.
 
 
-<img = src"Resources/green_stock_code_time.png">
+![](Resources/green_stock_code_time.png)
 
-<img = src"Resources/VBA_Challenge_2017.png">
+![](Resources/VBA_Challenge_2017.png)
 
 ## Summary
  1). The advantages of refactoring code was to improve the efficiency and allow to code to run quicker by improving the flow of the code and the functions used. A disadvantage of refactoring is that in trying to improve the code at certain points I ran into debugging errors. 
